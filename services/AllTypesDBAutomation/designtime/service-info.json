@@ -1,0 +1,6 @@
+{
+  "id" : "AllTypesDBAutomation",
+  "type" : "DataService",
+  "packageNames" : [ "com.webapp" ],
+  "title" : "AllTypesDBAutomation"
+}

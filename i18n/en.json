@@ -1,6 +1,11 @@
 {
-  "messages" : { },
-  "formats" : { },
+  "messages" : {
+    "aaa" : "111"
+  },
+  "formats" : {
+    "date" : "MMM d, yyyy",
+    "time" : "h:mm:ss a"
+  },
   "files" : {
     "angular" : "en",
     "fullCalendar" : null,

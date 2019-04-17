@@ -1,0 +1,14 @@
+{
+  "messages" : {
+    "aaa" : "vvv"
+  },
+  "formats" : {
+    "date" : "MMM d, yyyy",
+    "time" : "h:mm:ss a"
+  },
+  "files" : {
+    "angular" : "af",
+    "fullCalendar" : "af",
+    "moment" : "af"
+  }
+}
